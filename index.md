@@ -3,7 +3,7 @@ title: MSBA Program Portfolio
 description: A collection of various projects from my MSBA program
 ---
 
-To view additional projects, **[Click Here]**(./another-page.html)
+To view additional projects, [Click Here](./page-two.html)
 
 
 
