@@ -8,4 +8,6 @@ https://github.com/katherinematherly/katherinematherly/blob/main/M3Graphing.ipyn
 
 [Advanced MatPlotLib Graphing](./M3Graphing.ipynb)
 
+[Time Series Decomposition](./TimeSeries.html)
+
 [back](./)
