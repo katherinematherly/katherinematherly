@@ -1,11 +1,11 @@
 ---
-title: New Title
-description: Specify a description
+title: MSBA Program Portfolio
+description: A collection of various projects from my MSBA program
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+To view additional projects, **[Click Here]**(./another-page.html)
 
-[Link to another page](./another-page.html).
+
 
 There should be whitespace between paragraphs.
 
