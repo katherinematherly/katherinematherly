@@ -5,8 +5,11 @@ description: A collection of various projects from my MSBA program
 
 To view additional projects, [Click Here](./page-two.html)
 
+[Image](./output_7_0.png)
 
 
+
+## Theme Format
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
